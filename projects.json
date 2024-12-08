@@ -1,0 +1,240 @@
+{
+    "status": "success",
+    "message": "Project has successfully retrieved",
+    "data": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 12,
+                "project_category_id": 2,
+                "name": "Data Center PT. Eka Akar Jati",
+                "description": "Project ini digunakan unruk pengelolaan data pengajuan pembiayaan di PT. Eka Akar Jati",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-23-56.png",
+                "url": "https:\/\/datacenter.alfathcorp.id\/api\/documentation",
+                "slug": "data-center-pt-eka-akar-jati",
+                "created_at": "2024-12-08T18:24:18.000000Z",
+                "updated_at": "2024-12-08T18:24:18.000000Z",
+                "project_category": {
+                    "id": 2,
+                    "name": "RestFul API",
+                    "created_at": "2024-12-08T18:17:23.000000Z",
+                    "updated_at": "2024-12-08T18:17:23.000000Z"
+                }
+            },
+            {
+                "id": 11,
+                "project_category_id": 1,
+                "name": "Manajemen Telemarketing Alfath Property",
+                "description": "Project ini digunakan untuk memudahkan pihak marketing untuk memanajemen data marketing",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-21-52.png",
+                "url": "https:\/\/tele.alfathproperty.id\/login",
+                "slug": "manajemen-telemarketing-alfath-property",
+                "created_at": "2024-12-08T18:22:16.000000Z",
+                "updated_at": "2024-12-08T18:22:16.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 10,
+                "project_category_id": 1,
+                "name": "Absensi Alfathcorp",
+                "description": "Website ini digunakan untuk absensi pegawai PT. Alfath Corp",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-20-06.png",
+                "url": "https:\/\/absensi.alfathcorp.id\/login",
+                "slug": "absensi-alfathcorp",
+                "created_at": "2024-12-08T18:20:44.000000Z",
+                "updated_at": "2024-12-08T18:20:44.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 9,
+                "project_category_id": 1,
+                "name": "Backend Chat Sistem Berkah",
+                "description": "Project ini digunakan untuk Restful API websocket Chat Support Sistem Berkah",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-18-40.png",
+                "url": "https:\/\/backsupport.sistemberkah.id\/",
+                "slug": "backend-chat-sistem-berkah-1",
+                "created_at": "2024-12-08T18:19:04.000000Z",
+                "updated_at": "2024-12-08T18:19:40.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 8,
+                "project_category_id": 1,
+                "name": "Karir PPPK",
+                "description": "KarirPPPK, platform belajar andalan untuk persiapan PPPK. Akses latihan soal dan Try Out eksklusif.",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-15-59.png",
+                "url": "https:\/\/karirpppk.id\/",
+                "slug": "karir-pppk",
+                "created_at": "2024-12-08T18:16:21.000000Z",
+                "updated_at": "2024-12-08T18:16:21.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 7,
+                "project_category_id": 1,
+                "name": "Karir CPNS",
+                "description": "Karir CPNS merupakan platform Tryout CPNS terbaik yang membantu Anda mempersiapkan diri menghadapi seleksi CPNS dengan materi lengkap, latihan soal, dan simulasi ujian terkini.",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-15-25.png",
+                "url": "https:\/\/karircpns.id\/",
+                "slug": "karir-cpns",
+                "created_at": "2024-12-08T18:15:39.000000Z",
+                "updated_at": "2024-12-08T18:15:39.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 6,
+                "project_category_id": 1,
+                "name": "Jidoka",
+                "description": "Jidoka adalah sebuah sistem yang bertujuan untuk membuat lini produksi menciptakan output berkualitas tinggi yang dimiliki oleh PT. Sekar Pamenang Group.",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-14-16.png",
+                "url": "https:\/\/jidoka.id\/",
+                "slug": "jidoka",
+                "created_at": "2024-12-08T18:14:42.000000Z",
+                "updated_at": "2024-12-08T18:14:42.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 5,
+                "project_category_id": 1,
+                "name": "SIAR",
+                "description": "SIAR merupakan platform milik PT. Eka Akar Jati yang menyediakan fasilitas pembiayaan syariah dan berafiliasi langsung dengan  Bank Muamalat Indonesia.",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-12-22.png",
+                "url": "https:\/\/siar.solusimadani.id\/login",
+                "slug": "siar",
+                "created_at": "2024-12-08T18:12:47.000000Z",
+                "updated_at": "2024-12-08T18:12:47.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 4,
+                "project_category_id": 1,
+                "name": "Monstrac (CGS)",
+                "description": "Monstrac merupakan platform milik PT. Central Global Solution yang menyediakan fasilitas pembiayaan dan berafiliasi langsung dengan PT Bank Capital Indonesia.",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-09-50.png",
+                "url": "https:\/\/monstrac.centralglobalsolution.id\/",
+                "slug": "monstrac-cgs",
+                "created_at": "2024-12-08T18:10:09.000000Z",
+                "updated_at": "2024-12-08T18:10:09.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 3,
+                "project_category_id": 1,
+                "name": "Siber",
+                "description": "Siber atau Sistem Berkah merupakan platform milik PT. Eka Akar Jati yang menyediakan fasilitas pembiayaan syariah dan berafiliasi langsung dengan PT Bank Syariah Indonesia Tbk.",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-07-43.png",
+                "url": "https:\/\/siber.ekaakarjati.id\/",
+                "slug": "siber",
+                "created_at": "2024-12-08T18:08:02.000000Z",
+                "updated_at": "2024-12-08T18:08:02.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 2,
+                "project_category_id": 1,
+                "name": "Rab & Rap Generator",
+                "description": "Rab & Rap Generator PT. Sekar Pamenang Group",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-01-32.png",
+                "url": "https:\/\/rabrap.sekarpamenanggroup.com\/",
+                "slug": "rab-rap-generator",
+                "created_at": "2024-12-08T18:06:36.000000Z",
+                "updated_at": "2024-12-08T18:06:36.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            },
+            {
+                "id": 1,
+                "project_category_id": 1,
+                "name": "E-Kwitansi",
+                "description": "E-Kwitansi PT. Sekar Pamenang Group",
+                "thumbnail": "\/storage\/photos\/1\/Screenshot from 2024-12-09 01-01-32.png",
+                "url": "https:\/\/kwitansi.sekarpamenanggroup.com\/",
+                "slug": "e-kwitansi",
+                "created_at": "2024-12-08T18:01:43.000000Z",
+                "updated_at": "2024-12-08T18:06:56.000000Z",
+                "project_category": {
+                    "id": 1,
+                    "name": "Website App",
+                    "created_at": "2024-12-08T18:00:51.000000Z",
+                    "updated_at": "2024-12-08T18:00:51.000000Z"
+                }
+            }
+        ],
+        "first_page_url": "http:\/\/localhost:8000\/project?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "http:\/\/localhost:8000\/project?page=2",
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http:\/\/localhost:8000\/project?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "http:\/\/localhost:8000\/project?page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "http:\/\/localhost:8000\/project?page=2",
+        "path": "http:\/\/localhost:8000\/project",
+        "per_page": 6,
+        "prev_page_url": null,
+        "to": 6,
+        "total": 12
+    }
+}
